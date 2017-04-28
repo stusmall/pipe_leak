@@ -1,0 +1,7 @@
+[package]
+name = "pipe_leak"
+version = "0.1.0"
+authors = ["Stu Small <stuart.small@threat-x.com>"]
+
+[dependencies]
+ws = "0.7"
